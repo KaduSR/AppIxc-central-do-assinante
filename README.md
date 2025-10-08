@@ -119,7 +119,7 @@ O **FiberAppRF** nasce para empoderar o cliente com autoatendimento digital: **W
 
 ```bash
 # Exemplo de backend local
-git clone https://github.com/seu-repo/fiberapp.git
+git clone https://github.com/KaduSR/AppIxc-central-do-assinante
 cd fiberapp/backend
 npm install
 cp .env.example .env  # configurar TOKEN_IXC e URL_IXC
